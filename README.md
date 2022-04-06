@@ -21,10 +21,10 @@ The Express.js service should be protected with a client secret to prevent anyth
 ### The React application
 We don't mind what version of React you're going to use other than it shouldn't be two versions older than the current (https://www.reactjs.rg)
 
-Your React app doesn't need to look like the Mona Lisa, we're more interested in how you structure your code and if you're implementing best practise. Your application should have the following:
+We're most interested in how you structure your code and if you're implementing best practise. Your application should have the following:
 * An input field that lets a user type in a city name: Example: "Hong Kong"
 * A submit button that requests the data from the Express.js endpoint you created
-* You should display a simple loading message while the API request is made using a Font Awesome spinner icon - https://fontawesome.com/ (This means you'll need to import the Font awesome icon library to make use of it)
+* You should display a simple loading message while the API request is made
 * Your Express.js service should be defined as a Service within React that is injected into your Component
 * You should display the current weather data supplied by the API
 * You should make use of SCSS as a pre-compiler 
