@@ -27,6 +27,9 @@ Your React app doesn't need to look like the Mona Lisa, we're more interested in
 * You should display a simple loading message while the API request is made using a Font Awesome spinner icon - https://fontawesome.com/ (This means you'll need to import the Font awesome icon library to make use of it)
 * Your Express.js service should be defined as a Service within React that is injected into your Component
 * You should display the current weather data supplied by the API
+* You should make use of SCSS as a pre-compiler 
+* The designs below should be followed for the application, a Figma link is provided
+	* https://www.figma.com/file/UBMkC1wLwSroOfqJsA5yG7/HelloComputer---Weather-Dashboard?node-id=1%3A2
 
 #### Here is a simple slow of how you application should work. 
 ##### The user is presented with an input field and a submit button.
